@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Authors>esiole</Authors>
+        <Description>Test assignment for Mindbox - shape library</Description>
+        <PackageProjectUrl>https://github.com/esiole/Mindbox</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/esiole/Mindbox</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
